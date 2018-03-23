@@ -40,6 +40,8 @@ namespace QuickSort
 
             while (startingPointer < endPointer)
             {
+                
+                //If the numbers to be sorted are all unique we can replace ">=" with ">" in the following line
                 while (startingPointer < endPointer && inputArray[endPointer] >= num)
                 {
                     endPointer--;
