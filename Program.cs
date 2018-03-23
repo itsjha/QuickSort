@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace WorkingProjectDynamic
+namespace QuickSort
 {
     class Program
     {
